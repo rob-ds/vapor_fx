@@ -1,0 +1,25 @@
+name: vapor-fx1.0
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - scipy
+  - scikit-learn
+  - matplotlib>=3.7
+  - cartopy
+  - pytest
+  - pylint
+  - black
+  - pip
+  - dask
+  - plotly
+  - nbformat
+  - ipywidgets
+  - seaborn
+  - tqdm
+  - cdsapi
