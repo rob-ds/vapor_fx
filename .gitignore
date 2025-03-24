@@ -1,7 +1,7 @@
-# Data files
-data/raw/
-*.nc
-*.zip
+## Data files
+#data/raw/
+#*.nc
+#*.zip
 
 # Log files
 *.log
